@@ -2,7 +2,6 @@ import {StyleSheet} from 'react-native';
 import {
   moderateScale,
   responsiveFont,
-  SCREEN_HEIGHT,
   SCREEN_WIDTH,
 } from '../../utils/responsive';
 

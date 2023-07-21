@@ -36,7 +36,7 @@ const darkTheme = {
     text: '#f2f2f2',
     border: 'rgb(199, 199, 204)',
     notification: 'rgb(255, 69, 58)',
-    inputBackground: '#d8d8d8',
+    inputBackground: '#18191A',
   },
 };
 
